@@ -2,3 +2,6 @@
 
 # My team 
 * Gazimov Dias 200103360 
+
+## Acutal project link.
+[Dias-Store](https://github.com/Gvzum/dias-store)
