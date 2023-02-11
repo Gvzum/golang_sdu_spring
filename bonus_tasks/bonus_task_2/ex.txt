@@ -1,0 +1,19 @@
+bonus ex (1.5 points to FA out of 60) -> all bonus tasks weigh only 1.5 points
+Plagiarism (copying code) is strictly disallowed 
+
+Create a struct of Node, which will have two fields: value and pointer to the next node.
+Create a LIFO struct (Stack) with all needed fields and methods implemented. Use the Node struct created at the previous step
+DON’ T FORGET ABOUT POINTERS TO THE INSTANCE IN METHODS
+
+
+Methods of Stack struct:
+Pop - delete the element from the top of the stack and return its value
+Peek - return the value of the top element of the stack
+Push - add new element to the top
+Clear - remove all elements from the stack
+Contains - return whether some element is inside of the stack
+Increment - increment all elements of the stack by 1 (1 becomes 2, 5 becomes 6 etc.)
+Print - print all elements, starting from the top
+PrintReverse - print all elements, starting from the bottom
+
+Your stack should consist of unique values which cannot be found in other codes
