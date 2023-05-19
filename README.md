@@ -5,3 +5,5 @@
 
 ## Acutal project link.
 [Dias-Store](https://github.com/Gvzum/dias-store)
+
+![ERD](store_erd.png)
